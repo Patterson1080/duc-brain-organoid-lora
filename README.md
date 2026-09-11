@@ -259,7 +259,7 @@ Santa Barbara**.
 
 **LoRA authors** — **Iason Paterakis** and **Nefeli Manoudaki**.
 
-**Owner** — **Metaesthetica** — <https://metaesthetica.xyz/>
+**Owner** — **Metaesthetica** — <https://metaesthetica.xyz/> **Mert Toka**, *Nefeli Manoudaki**, **Iason Paterakis**, **Stejara Iulia Dinulescu**, **prof. Diarmid Flatley**
 
 ### Terms
 
