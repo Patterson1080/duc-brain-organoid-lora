@@ -1,0 +1,4 @@
+# Model weights are distributed as a GitHub Release asset, not committed.
+*.safetensors
+*.ckpt
+*.pt
