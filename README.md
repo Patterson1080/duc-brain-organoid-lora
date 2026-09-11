@@ -17,8 +17,8 @@ Source microscopy: **Ken Kosik Neurobiology Lab, UC Santa Barbara**
 
 ## Download
 
-**[⬇ duc_organoid_sdxlbase_v1.safetensors](https://github.com/Patterson1080/duc-organoid-lora/releases/download/v1.0/duc_organoid_sdxlbase_v1.safetensors)**
-(81.5 MB) — or grab it from the [Releases page](https://github.com/Patterson1080/duc-organoid-lora/releases/latest).
+**[⬇ duc_organoid_sdxlbase_v1.safetensors](https://github.com/Patterson1080/duc-brain-organoid-lora/releases/download/v1.0/duc_organoid_sdxlbase_v1.safetensors)**
+(81.5 MB) — or grab it from the [Releases page](https://github.com/Patterson1080/duc-brain-organoid-lora/releases/latest).
 
 The weights are a release asset rather than a file in the repo, so cloning won't
 include them — download the file above.
