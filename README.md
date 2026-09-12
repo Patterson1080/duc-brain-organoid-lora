@@ -261,12 +261,16 @@ Santa Barbara**.
 
 **Owner** — **Metaesthetica** — <https://metaesthetica.xyz/> **Mert Toka**, **Nefeli Manoudaki**, **Iason Paterakis**, **Stejara Iulia Dinulescu**, **prof. Diarmid Flatley**
 
-### Terms
+## License
 
-Please retain this attribution if you redistribute the model or publish work made
-with it, and credit the Kosik Lab for the source microscopy.
+**CreativeML Open RAIL++-M** (inherited from Stable Diffusion XL 1.0, including its
+use-based restrictions) **plus Additional Terms** — see [LICENSE](LICENSE). In short:
 
-The underlying recordings are research data belonging to the Kosik Lab. This LoRA
-encodes their *visual character* for artistic use — it is not a scientific
-instrument, and its output must not be presented as microscopy data or used to
-illustrate experimental results.
+- **Attribution required** — credit the authors, Metaesthetica, and the Kosik Lab.
+- **Non-commercial** — commercial use needs written permission from Metaesthetica.
+- **No scientific misrepresentation** — outputs are synthetic and must not be
+  presented as microscopy data or used to illustrate experimental findings.
+- **No rights in the training data** — the recordings belong to the Kosik Lab and
+  are not distributed here.
+
+The sample image above is pure text-to-image output; it contains no training data.
